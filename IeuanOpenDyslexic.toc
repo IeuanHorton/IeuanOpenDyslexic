@@ -1,4 +1,4 @@
-## Interface: 90001
+## Interface: 16001
 ## Author: Ieuan
 ## Notes:  Very small addon what allow you to use OpenDyslexic 3 font for World of Warcraft, World of Warcraft Classic, and World of Warcraft Forever
 ## Version: 0.1
